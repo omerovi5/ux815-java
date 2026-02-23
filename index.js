@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function () {
     origin: 'left',
     distance: '100px',
     duration: 800,
-    delay: 200
+    delay: 1000
   });
 
   const sr2 = ScrollReveal();
@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
     origin: 'right',
     distance: '150px',
     duration: 1000,
-    delay: 400,
+    delay: 3000,
     scale: 0.8
   });
 
@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
     distance: '0px',
     duration: 700,
     scale: 0.5,
-    delay: 300,
+    delay: 3000,
     reset: true
   });
 
