@@ -1,1 +1,1 @@
-// Add JavaScript below
+ScrollReveal().reveal('.img');
