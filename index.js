@@ -22,6 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
     origin: 'top',
     distance: '80px',
     duration: 600,
+    delay: 4000,
     rotate: { x: 20, y: 0, z: 0 }
   });
 
@@ -30,6 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
     origin: 'bottom',
     distance: '120px',
     duration: 900,
+    delay: 5000,
     opacity: 0,
     easing: 'ease-in-out'
   });
@@ -39,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
     distance: '0px',
     duration: 700,
     scale: 0.5,
-    delay: 3000,
+    delay: 6000,
     reset: true
   });
 
